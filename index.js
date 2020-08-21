@@ -11,12 +11,12 @@ function divide(a, b){
   return a / b;
 };
 function increment(n){
-  n++;
-  return n;
+  num1 = n;
+  return num1++;
 };
 function decrement(n){
-  n--;
-  return n;
+  num2 = n;
+  return num2--;
 };
 function makeInt(n){
   return 0;
