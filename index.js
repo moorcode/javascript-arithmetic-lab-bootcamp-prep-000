@@ -16,9 +16,9 @@ function increment(n){
 function decrement(n){
     return n-=1;
 };
-function makeInt(n){
+function makeInt(string){
   return 0;
 };
-function preserveDecimal(n){
+function preserveDecimal(string){
   return 0;
 };
